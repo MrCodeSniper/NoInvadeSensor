@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Font</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="button_click_event_path">ContentView/Main2Activity[0]/FrameLayout[0]/LinearLayout[0]/FrameLayout[0]/FrameLayout[0]/RelativeLayout[0]/Button[1]</string>
+</resources>
